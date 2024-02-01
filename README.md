@@ -10,7 +10,7 @@ The repositories listed here are based on community reports and investigations. 
 
 1. [blx-stealer](https://github.com/blxstealer/BLX-Stealer)
    - Description: This repository claims to be a Discord token stealer disguised as a utility tool.
-   - Countain an dualhook hidden using pyobfuscator obfuscation
+   - Reason : Countain an dualhook hidden using pyobfuscator obfuscation
    - Reported by: TheCuteOwl
 
 
